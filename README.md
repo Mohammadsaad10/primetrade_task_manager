@@ -87,7 +87,7 @@ A full-stack **MERN** application (MongoDB, Express, React, Node.js) built for t
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/primetrade-task-manager.git
+git clone https://github.com/Mohammadsaad10/primetrade_task_manager.git
 cd primetrade-task-manager
 
 # Start all services (MongoDB, Backend, Frontend)
@@ -252,3 +252,4 @@ See [scalability_note.md](scalability_note.md) for details on:
 ## 📝 License
 
 This project was created for the PrimeTrade Backend Developer Internship assignment.
+
