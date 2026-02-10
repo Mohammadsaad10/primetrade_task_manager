@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Log files (keep these out of repo - submit separately)
+*.log
+logs/
+
+# Build outputs
+dist/
+build/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# OS files
+Thumbs.db
+
+# Zip files (submission artifacts)
+*.zip
